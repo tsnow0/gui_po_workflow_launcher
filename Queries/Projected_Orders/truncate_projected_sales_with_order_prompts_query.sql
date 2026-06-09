@@ -1,0 +1,1 @@
+TRUNCATE analytics.eprojected_sales_with_order_prompts

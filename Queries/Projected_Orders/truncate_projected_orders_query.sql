@@ -1,0 +1,1 @@
+TRUNCATE analytics.eprojected_orders
